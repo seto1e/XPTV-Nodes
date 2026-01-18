@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "name": "GimyTWCC",
+      "type": 3,
+      "api": "csp_gimytwCC",
+      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%2520cc.js"
+    },{
+      "name": "GimyTWCC",
+      "type": 3,
+      "api": "csp_gimytwCC",
+      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%2520tw.js"
+    }
+  ]
+}
