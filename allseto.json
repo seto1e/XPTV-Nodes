@@ -4,12 +4,12 @@
       "name": "GimyTWCC",
       "type": 3,
       "api": "csp_gimytwCC",
-      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%2520cc.js"
+      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%20cc.js"
     },{
       "name": "GimyTW",
       "type": 3,
       "api": "csp_gimytw",
-      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%2520tw.js"
+      "ext": "https://github.com/seto1e/NewXPTV/blob/main/gimy%20tw.js"
     }
   ]
 }
